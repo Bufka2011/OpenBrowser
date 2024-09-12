@@ -37,7 +37,7 @@ class MainWindow(QMainWindow):
 
     def update_title(self):
         title = self.browser.page().title()
-        self.setWindowTitle("% s - ParaBrowse" % title)
+        self.setWindowTitle("% s - OpenBrowser" % title)
 
     def navigate_to_url(self):
         q = QUrl(self.urlbar.text())
