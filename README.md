@@ -1,1 +1,3 @@
-# ParaBrowse 0.2
+# OpenBrowser 1.0
+
+Fast and clean
